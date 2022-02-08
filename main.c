@@ -27,3 +27,10 @@ Initial Function()
 }
 }
 
+Feature2 code
+{
+Initial Function()
+{
+  //Sample Code
+}
+}
