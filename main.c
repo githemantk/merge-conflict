@@ -13,3 +13,9 @@ Initial Security()
 
 
 }
+Security code
+{
+Security Function()
+{
+ //Sample security
+}}
