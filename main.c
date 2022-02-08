@@ -19,3 +19,11 @@ Security Function()
 {
  //Sample security
 }}
+Feature1 code
+{
+Initial Function()
+{
+  //Sample Code
+}
+}
+
